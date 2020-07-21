@@ -72,7 +72,7 @@ alias gcb="git checkout -b"
 alias gd="git diff"
 alias gs="git status"
 alias gss="git status -s"
-alias gl="git log --stat
+alias gl="git log --stat"
 alias gf="git fetch"
 alias gfo="git fetch origin"
 alias gfa="git fetch --all"
@@ -88,7 +88,7 @@ alias t="touch"
 alias config='/usr/bin/git --git-dir=/Users/nickyevers/.cfg/ --work-tree=/Users/nickyevers'
 
 #cd
-alias ..='cd ..'
-alias ...='cd ../..'
-alias ....='cd ../../..'
-alias .....='cd ../../../..'
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
